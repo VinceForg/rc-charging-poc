@@ -31,3 +31,5 @@ fig.savefig("figures/generated/rc_charging.pdf")
 plt.show()
 
 #print("tau = ", tau, "s; V(tau) = ", V_tau,"V")
+
+
